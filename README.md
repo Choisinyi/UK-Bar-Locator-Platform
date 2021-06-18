@@ -11,7 +11,7 @@
 
 
 # Business Objectives
-## With people across the UK itching to get out from lockdown as a result of Covid-19 and understanding that pubs plays a significant role in English culture, this streamlit app is designed to recommend and help you find bars near you. By doing so, we hope to achieve the following:
+With people across the UK itching to get out from lockdown as a result of Covid-19 and understanding that pubs plays a significant role in English culture, this streamlit app is designed to recommend and help you find bars near you. By doing so, we hope to achieve the following:
 
 -Help customers find new pubs
 -Help local pubs find new potential customers
