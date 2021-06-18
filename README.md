@@ -11,7 +11,7 @@
 
 # Table of Contents:
 
-##- Business Objectives
+- Business Objectives
 - AI Chatbot
 - Recommendation system
 - Data Collection
