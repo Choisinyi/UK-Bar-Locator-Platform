@@ -9,11 +9,12 @@
 ![Screenshot (57)](https://user-images.githubusercontent.com/80455832/122506481-032a2280-d031-11eb-9102-7ff1bba591e3.png)
 
 
-##Table of Contents:
--Business Objectives
--AI Chatbot
--Recommendation system
--Data Collection
--Pre-Processing
--Model Development & Predictions
--Challenges & Next Steps
+# Table of Contents:
+
+##- Business Objectives
+- AI Chatbot
+- Recommendation system
+- Data Collection
+- Pre-Processing
+- Model Development & Predictions
+- Challenges & Next Steps
