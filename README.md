@@ -5,12 +5,12 @@
 # Table of Contents:
 
 - Business Objectives
-- AI Chatbot
-- Recommendation system
-- Data Collection
-- Pre-Processing
-- Model Development & Predictions
-- Challenges & Next Steps
+- Part A: AI Chatbot
+- Part B: Recommendation system
+          - Data Collection
+          - Pre-Processing
+          - Model Development & Predictions
+- Part C: Limitations & Next steps
 
 
 # Business Objectives
@@ -24,20 +24,60 @@ With people across the UK itching to get out from lockdown as a result of Covid-
 Mainly using the Google dialogflow to build the AI Chatbot
 
 Intents:
-- 1. Suggest different types of pubs and drinks -> Result from Google 
-- 2. Connect to Google Canledar API -> 
-- 3. Ask for the nearest pubs-> Recommendation System -> Streamlit (Part B)
-
-
+- 1. Suggest different types of pubs and drinks -> Pop up the result of high-ranked restaurants from website
+- 2. Connect to Google Canledar API -> Help the users to markdown an appointment for drinks on their own Google Canledar automatically
+- 3. Ask for the nearest pubs-> help guiding the users to Recommendation System -> Streamlit -> (direct to Part B)
 
 ![Screenshot (60)](https://user-images.githubusercontent.com/80455832/122524438-b3f0eb80-d04a-11eb-81fc-11c57e2f6d7a.png)
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/80455832/122524425-b05d6480-d04a-11eb-91b4-3b53302ca45a.png)
 
 
-
-
-
 # Part B: Recommendation System with streamlit
+
+![Screenshot (68)](https://user-images.githubusercontent.com/80455832/122540835-98daa780-d05b-11eb-8143-0fbeeffecfdd.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/80455832/122547040-30db8f80-d062-11eb-9c38-56d3edecde68.png)
+
+## 1) Data collection
+The data was collected using the open-source platform Kaggle on every pub within the UK
+
+Link: https://www.kaggle.com/rtatman/every-pub-in-england
+
+Overview: This dataset includes information on 51,566 pubs in the UK
+
+Data Upload Year: 2017 (outdated but used for learning purpose)
+
+Contents:
+
+- fsa_id (int): Food Standard Agency's ID for this pub.
+- name (string)L Name of the pub
+- address (string): Address fields separated by commas.
+- postcode (string): Postcode of the pub.
+- easting (int)
+- northing (int)
+- latitude (decimal)
+- longitude (decimal)
+- local_authority (string): Local authority this pub falls under
+
+## 2) Preprocessing & EDA
+
+![Screenshot (79)](https://user-images.githubusercontent.com/80455832/122547050-33d68000-d062-11eb-885c-f78be433fe2b.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/80455832/122547091-3cc75180-d062-11eb-86c4-181d4eabae9c.png)
+
+## 3) Model development-- K-Means
+![Screenshot (82)](https://user-images.githubusercontent.com/80455832/122547102-3f29ab80-d062-11eb-85ac-637a4a811447.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/80455832/122547122-451f8c80-d062-11eb-974a-8c6c871fda67.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/80455832/122547126-481a7d00-d062-11eb-9413-b337677e33a0.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/80455832/122547136-4bae0400-d062-11eb-992b-5e69f9b65ae9.png)
+## 4) Making Predictions
+![Screenshot (86)](https://user-images.githubusercontent.com/80455832/122547143-4d77c780-d062-11eb-88ca-c15b5c43470b.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/80455832/122547150-4f418b00-d062-11eb-8579-db1874251ee4.png)
+
+# Part C: Limitations & Next steps
+![Screenshot (90)](https://user-images.githubusercontent.com/80455832/122547459-b65f3f80-d062-11eb-968b-537afd714fcc.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/80455832/122547467-b7906c80-d062-11eb-946c-aca1511651b9.png)
+
+
+
 
 # Part C: Challenges & Next steps
