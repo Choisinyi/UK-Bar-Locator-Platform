@@ -1,4 +1,4 @@
-# DrunkBot(Chatbot) x Pint-Locator(Streamlit)
+# Chatbot x Recommendation System x Streamlit
 # Table of Contents:
 
 - Business Objectives
