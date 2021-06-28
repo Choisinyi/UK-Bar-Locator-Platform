@@ -5,12 +5,12 @@
 # Table of Contents:
 
 - Business Objectives
-- Part A: AI Chatbot
-- Part B: Recommendation system
+- AI Chatbot
+- Recommendation system
           - Data Collection
           - Pre-Processing
           - Model Development & Predictions
-- Part C: Limitations & Next steps
+- Limitations & Next steps
 
 
 # Business Objectives
