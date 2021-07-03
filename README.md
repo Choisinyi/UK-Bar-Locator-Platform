@@ -4,7 +4,7 @@
 
 ## Key takeaways: 
 1. Chatbot (Google Dialogflow)
-2. Recommendation System (Content-based and Collaborative)
+2. Recommendation System 
 3. Streamlit Web app
 
 ## ![Screenshot (52)](https://user-images.githubusercontent.com/80455832/122505976-fd800d00-d02f-11eb-98a9-59ade9ff72b0.png)
