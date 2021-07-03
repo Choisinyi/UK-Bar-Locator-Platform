@@ -3,7 +3,7 @@
 # UK Bar Locator Platform
 
 ## Key takeaways: 
-1. Chatbot (Google Dialogflow)
+1. Chatbot
 2. Recommendation System 
 3. Streamlit Web app
 
