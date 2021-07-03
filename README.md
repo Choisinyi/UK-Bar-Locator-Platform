@@ -39,7 +39,7 @@ Intents:
 ![Screenshot (61)](https://user-images.githubusercontent.com/80455832/122524425-b05d6480-d04a-11eb-91b4-3b53302ca45a.png)
 
 
-# Part B: Recommendation System with streamlit
+# Part B: Recommendation System with Streamlit web app
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/80455832/122540835-98daa780-d05b-11eb-8143-0fbeeffecfdd.png)
 ![Screenshot (78)](https://user-images.githubusercontent.com/80455832/122547040-30db8f80-d062-11eb-9c38-56d3edecde68.png)
@@ -79,9 +79,7 @@ Contents:
 ![Screenshot (86)](https://user-images.githubusercontent.com/80455832/122547143-4d77c780-d062-11eb-88ca-c15b5c43470b.png)
 ![Screenshot (87)](https://user-images.githubusercontent.com/80455832/122547150-4f418b00-d062-11eb-8579-db1874251ee4.png)
 
-# Part C: Limitations & Next steps
-![Screenshot (90)](https://user-images.githubusercontent.com/80455832/122547459-b65f3f80-d062-11eb-968b-537afd714fcc.png)
-![Screenshot (91)](https://user-images.githubusercontent.com/80455832/122547467-b7906c80-d062-11eb-946c-aca1511651b9.png)
+
 
 
 
