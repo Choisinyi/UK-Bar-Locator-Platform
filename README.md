@@ -44,6 +44,19 @@ Intents:
 ![Screenshot (68)](https://user-images.githubusercontent.com/80455832/122540835-98daa780-d05b-11eb-8143-0fbeeffecfdd.png)
 ![Screenshot (78)](https://user-images.githubusercontent.com/80455832/122547040-30db8f80-d062-11eb-9c38-56d3edecde68.png)
 
+# Demo time for Streamlit web app!
+step 1: Choose one of the landmarks in London
+
+![122635299-99377900-d115-11eb-8ac3-cd2648090c09](https://user-images.githubusercontent.com/80455832/124442440-54ffd600-ddaf-11eb-90e0-b17fa73eee83.gif)
+
+step 2: Select a bar that you would like to go within that cluster
+
+![122635531-10214180-d117-11eb-93e7-aed106b5ab0f](https://user-images.githubusercontent.com/80455832/124442453-57fac680-ddaf-11eb-9e16-d7400c6ae24e.gif)
+
+step 3: The web app will give you the details of the selected pub and real-time google map location
+
+![122635534-144d5f00-d117-11eb-9d0c-f7e25b68c5e7](https://user-images.githubusercontent.com/80455832/124442474-5af5b700-ddaf-11eb-8f67-867541d359f6.gif)
+
 ## 1) Data collection
 The data was collected using the open-source platform Kaggle on every pub within the UK
 
@@ -79,14 +92,7 @@ Contents:
 ![Screenshot (86)](https://user-images.githubusercontent.com/80455832/122547143-4d77c780-d062-11eb-88ca-c15b5c43470b.png)
 ![Screenshot (87)](https://user-images.githubusercontent.com/80455832/122547150-4f418b00-d062-11eb-8579-db1874251ee4.png)
 
-# Demo time for Streamlit web app!
-step 1: select one of the landmarks in London
 
-![122635299-99377900-d115-11eb-8ac3-cd2648090c09](https://user-images.githubusercontent.com/80455832/124442440-54ffd600-ddaf-11eb-90e0-b17fa73eee83.gif)
-
-![122635531-10214180-d117-11eb-93e7-aed106b5ab0f](https://user-images.githubusercontent.com/80455832/124442453-57fac680-ddaf-11eb-9e16-d7400c6ae24e.gif)
-
-![122635534-144d5f00-d117-11eb-9d0c-f7e25b68c5e7](https://user-images.githubusercontent.com/80455832/124442474-5af5b700-ddaf-11eb-8f67-867541d359f6.gif)
 
 
 
